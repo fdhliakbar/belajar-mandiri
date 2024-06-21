@@ -1,10 +1,10 @@
-# **Platform Pembelajaran Online dan Pengembangan Keterampilan**
+# **Platform Pembelajaran Online dan Pengembangan Keterampilan** <img src="./Assets/images/2_2.gif"/>
 
 Selamat datang di proyek platform pembelajaran online kami! Platform ini dirancang untuk mendukung pembelajaran jarak jauh dan pengembangan keterampilan bagi berbagai kalangan, dari pelajar hingga profesional.
 
 ## **Daftar Isi**
 
-- [**Platform Pembelajaran Online dan Pengembangan Keterampilan**](#platform-pembelajaran-online-dan-pengembangan-keterampilan)
+- [**Platform Pembelajaran Online dan Pengembangan Keterampilan** ](#platform-pembelajaran-online-dan-pengembangan-keterampilan-)
   - [**Daftar Isi**](#daftar-isi)
   - [**Deskripsi Proyek**](#deskripsi-proyek)
   - [**Fitur Utama**](#fitur-utama)
@@ -97,5 +97,5 @@ Untuk informasi lebih lanjut, Anda dapat menghubungi kami melalui:
 ---
 
 <div align="center">
-<img src="./Assets/images/final stress .gif" alt="Coder" height="80%" />
+<img src="./Assets/images/final stress .gif" alt="Coder"  />
 </div>
