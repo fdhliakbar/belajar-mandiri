@@ -1,10 +1,14 @@
-# **Platform Pembelajaran Online dan Pengembangan Keterampilan** <img src="./Assets/images/2_2.gif"/>
+# **Platform Pembelajaran Online dan Pengembangan Keterampilan**
+
+<div align="center">
+   <img src="./Assets/images/2_2.gif" height="160" />
+</div>
 
 Selamat datang di proyek platform pembelajaran online kami! Platform ini dirancang untuk mendukung pembelajaran jarak jauh dan pengembangan keterampilan bagi berbagai kalangan, dari pelajar hingga profesional.
 
 ## **Daftar Isi**
 
-- [**Platform Pembelajaran Online dan Pengembangan Keterampilan** ](#platform-pembelajaran-online-dan-pengembangan-keterampilan-)
+- [**Platform Pembelajaran Online dan Pengembangan Keterampilan**](#platform-pembelajaran-online-dan-pengembangan-keterampilan)
   - [**Daftar Isi**](#daftar-isi)
   - [**Deskripsi Proyek**](#deskripsi-proyek)
   - [**Fitur Utama**](#fitur-utama)
@@ -32,11 +36,13 @@ Platform ini bertujuan untuk menyediakan akses ke kursus-kursus berkualitas yang
 
 ## **Teknologi yang Digunakan**
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Hosting**: Github
-- **Version Control**: Git, GitHub
+<p align="center">
+   <img title="Vue" alt="Vue JS" src="./Assets/images/logo/icons8-vue-js.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Vue" alt="Vue JS" src="./Assets/images/logo/icons8-tailwind-css.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Vue" alt="Vue JS" src="./Assets/images/logo/icons8-git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Vue" alt="Vue JS" src="./Assets/images/logo/icons8-figma.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	
+</p>
 
 ## **Instalasi dan Penggunaan**
 
@@ -96,6 +102,4 @@ Untuk informasi lebih lanjut, Anda dapat menghubungi kami melalui:
 
 ---
 
-<div align="center">
-<img src="./Assets/images/final stress .gif" alt="Coder"  />
-</div>
+[![Profile last updated](https://img.shields.io/github/last-commit/fdhliakbar/belajar-mandiri/main?label=Last%20updated&style=flat)](https://github.com/fdhliakbar/belajar-mandiri/commits)
