@@ -13,7 +13,6 @@ Selamat datang di proyek platform pembelajaran online kami! Platform ini diranca
     - [Prasyarat](#prasyarat)
     - [Instalasi](#instalasi)
     - [Penggunaan](#penggunaan)
-  - [**Kontribusi**](#kontribusi)
   - [**Lisensi**](#lisensi)
   - [**Kontak**](#kontak)
 
@@ -83,16 +82,6 @@ Platform ini bertujuan untuk menyediakan akses ke kursus-kursus berkualitas yang
 - **Ikuti Pembelajaran**: Pelajari materi dan ikuti kuis untuk mengukur pemahaman Anda.
 - **Dapatkan Sertifikat**: Selesaikan kursus dan dapatkan sertifikat sebagai pengakuan atas keterampilan yang telah dipelajari.
 
-## **Kontribusi**
-
-Kami sangat terbuka untuk kontribusi dari siapa saja. Untuk mulai berkontribusi:
-
-1. Fork repository ini.
-2. Buat branch baru: `git checkout -b feature-branch-name`.
-3. Commit perubahan Anda: `git commit -m 'Add some feature'`.
-4. Push ke branch: `git push origin feature-branch-name`.
-5. Buat pull request.
-
 ## **Lisensi**
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
@@ -101,8 +90,12 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Untuk informasi lebih lanjut, Anda dapat menghubungi kami melalui:
 
-- **Email**: support@onlineplatform.com
-- **Website**: [onlineplatform.com](https://www.onlineplatform.com)
-- **GitHub**: [github.com/username](https://github.com/username)
+- **Email**: fadhliakbar125@gmail.com
+- **Website**: [Belumada.com](https://www.onlineplatform.com)
+- **GitHub**: [github.com/fdhliakbar](https://github.com/fdhliakbar)
 
 ---
+
+<div align="center">
+<img src="./Assets/images/final stress .gif" alt="Coder" height="80%" />
+</div>
